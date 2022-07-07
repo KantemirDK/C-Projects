@@ -1,0 +1,15 @@
+C:\Kantemir618\Example001_HeloConsole\bin\Debug\net6.0\Example001_HeloConsole.exe
+C:\Kantemir618\Example001_HeloConsole\bin\Debug\net6.0\Example001_HeloConsole.deps.json
+C:\Kantemir618\Example001_HeloConsole\bin\Debug\net6.0\Example001_HeloConsole.runtimeconfig.json
+C:\Kantemir618\Example001_HeloConsole\bin\Debug\net6.0\Example001_HeloConsole.dll
+C:\Kantemir618\Example001_HeloConsole\bin\Debug\net6.0\Example001_HeloConsole.pdb
+C:\Kantemir618\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.csproj.AssemblyReference.cache
+C:\Kantemir618\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kantemir618\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.AssemblyInfoInputs.cache
+C:\Kantemir618\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.AssemblyInfo.cs
+C:\Kantemir618\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.csproj.CoreCompileInputs.cache
+C:\Kantemir618\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.dll
+C:\Kantemir618\Example001_HeloConsole\obj\Debug\net6.0\refint\Example001_HeloConsole.dll
+C:\Kantemir618\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.pdb
+C:\Kantemir618\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.genruntimeconfig.cache
+C:\Kantemir618\Example001_HeloConsole\obj\Debug\net6.0\ref\Example001_HeloConsole.dll
