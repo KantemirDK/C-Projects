@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Kantemir618\\Example001_HeloConsole\\Example001_HeloConsole.csproj",
-      "projectName": "Example001_HeloConsole",
-      "projectPath": "C:\\Kantemir618\\Example001_HeloConsole\\Example001_HeloConsole.csproj",
+      "projectUniqueName": "C:\\Kantemir618\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectName": "Example001_HelloConsole",
+      "projectPath": "C:\\Kantemir618\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "packagesPath": "C:\\Users\\Kantemir\\.nuget\\packages\\",
-      "outputPath": "C:\\Kantemir618\\Example001_HeloConsole\\obj\\",
+      "outputPath": "C:\\Kantemir618\\Example001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kantemir\\AppData\\Roaming\\NuGet\\NuGet.Config"
