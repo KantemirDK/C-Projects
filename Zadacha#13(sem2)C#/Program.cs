@@ -16,18 +16,17 @@ if (N < 100)
 }
 else
 {
-    if (N > 100 && N < 1000)
+    int n = N;
+    int d = GetThirdDigit(n);
+
+    int GetThirdDigit(int k)
     {
-        int total = tres(N);
-
-        int tres(int N)
-        {
-            int tres = N % 10;
-            return tres;
-        }
-
-        Console.WriteLine("Третьей цифрой введенного числа является: ");
-        Console.WriteLine(total);
+        while (k >= 1000) k /= 10;
+        int d = k % 10;
+        return d;
     }
 
+    Console.WriteLine("Третьей цифрой введенного числа является: ");
+    Console.WriteLine(d);
 }
+
