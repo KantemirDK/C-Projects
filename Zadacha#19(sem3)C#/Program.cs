@@ -1,17 +1,22 @@
-﻿Console.WriteLine("Введите пятизначное число для проверки: ");
-uint a = uint.Parse(Console.ReadLine());
-uint b = a;
-var col = new List<uint>();
-while (b > 0)
+﻿// Задача 19: Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+// 14212 -> нет
+// 23432 -> да
+// 12821 -> да
+
+Console.Write("Введите число: ");
+string number = Console.ReadLine();
+
+void Number(string number)
 {
-    col.Add(b % 10);
-    b = b / 10;
+    if (number[0] == number[4] || number[1] == number[3])
+    {
+        Console.WriteLine("Введённое значение является палиндромом");
+    }
+    else Console.WriteLine("Введённое значение не является палиндромом");
 }
-b = 0;
-col.Reverse();
-for (int mcol = 0; mcol < col.Count; mcol++)
-    b = b + col[mcol] * (uint)Math.Pow(10, mcol);
-if (a == b)
-    Console.WriteLine("Введённое значение является палиндромом");
-else
-    Console.WriteLine("Введённое значение не являтется палиндромом");
+
+if (number!.Length == 5)
+{
+    Number(number);
+}
+else Console.WriteLine("Введённое значение не является пятизначным. Пожалуйста, введите пятизначное число");
