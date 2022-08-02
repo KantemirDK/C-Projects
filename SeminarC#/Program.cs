@@ -143,3 +143,24 @@
 // // else if (quarter == 3) Console.WriteLine("x < 0 and y < 0");
 // // else if (quarter == 4) Console.WriteLine("x  0 and y < 0");
 // // else System.Console.WriteLine("error 404, quarter not found");
+
+// 30
+// Двоичные числа: 1 и 0
+
+// int[] array = GetBinaryArray(8);
+// Console.Write($"[{String.Join(",", array)}]");
+// int[] GetBinaryArray(int size)
+// {
+//     int[] result = new int[size];
+//     // new int[size] - массив размером size элементов
+//     // заполнен массив "0"
+//     // result.Length = size
+//     for (int i = 0; i < result.Length; i++)
+//     {
+//         result[i] = new Random().Next(2);// [0;2)
+//         // (2) - считаем, что числа от 0 до 1 (2 не включается)
+//     }
+//     return result; // int [] result
+// }
+
+
