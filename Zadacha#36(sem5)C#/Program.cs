@@ -9,7 +9,6 @@ int RandomNumbers(int numbers, int min, int max)
 {
     int[] random = new int[numbers];
     int sum = 0;
-    Console.Write("Одномерный массив со случайными числами: ");
 
     for (int i = 0; i < random.Length; i++)
     {
